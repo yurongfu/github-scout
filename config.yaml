@@ -1,0 +1,31 @@
+max_repos: 5
+candidate_limit: 30
+minimum_score: 35
+lookback_days: 21
+history_days: 120
+ai_model: gpt-5.5
+categories:
+  agents:
+    weight: 35
+    queries:
+      - 'topic:ai-agents stars:>10'
+      - 'topic:mcp-server stars:>5'
+      - 'topic:llm-agent stars:>10'
+  games:
+    weight: 30
+    queries:
+      - 'topic:generative-agents stars:>5'
+      - 'topic:godot stars:>10'
+      - 'ai npc game in:name,description,readme stars:>10'
+  systems:
+    weight: 20
+    queries:
+      - 'topic:distributed-systems stars:>20'
+      - 'topic:llm-serving stars:>10'
+      - 'topic:database stars:>50'
+  tools:
+    weight: 15
+    queries:
+      - 'topic:developer-tools stars:>20'
+      - 'topic:cli stars:>30'
+      - 'topic:automation stars:>20'

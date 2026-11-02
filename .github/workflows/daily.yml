@@ -1,0 +1,40 @@
+name: Daily GitHub Scout
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 9 * * *'
+      timezone: 'America/New_York'
+permissions:
+  contents: write
+concurrency:
+  group: github-scout-digest
+  cancel-in-progress: false
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      - name: Discover and deliver repositories
+        env:
+          GH_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.5' }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python -m scout.main
+      - name: Commit history after successful delivery
+        run: |
+          if ! git diff --quiet -- data/history.json; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add data/history.json
+            git commit -m 'chore: update recommendation history'
+            git push
+          fi
