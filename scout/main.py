@@ -190,6 +190,33 @@ def select_digest(candidates, reviews, config, now):
     return out[:config['max_repos']]
 
 
+
+def feed_document(selected, today):
+    """Stable public JSON contract consumed by the Chrome side panel."""
+    items = []
+    for score, candidate, review in selected:
+        repo = candidate['repo']
+        items.append({
+            'full_name': repo['full_name'],
+            'html_url': repo['html_url'],
+            'description': repo.get('description') or '',
+            'stars': repo.get('stargazers_count', 0),
+            'language': repo.get('language') or '',
+            'categories': candidate['categories'],
+            'score': round(score, 1),
+            'summary': review['summary'],
+            'why': review['why'],
+            'build_idea': review['build_idea'],
+        })
+    return {'schema_version': 1, 'date': today, 'repos': items}
+
+
+def save_feed(document, path=ROOT / 'data' / 'feed.json'):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix('.tmp')
+    tmp.write_text(json.dumps(document, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    tmp.replace(path)
+
 def clean(value, limit):
     # Defuse mentions, truncate output to fit embed limits.
     return str(value or '').replace('@', '@\u200b').replace('`', "'")[:limit]
@@ -259,7 +286,8 @@ def main():
     for _, c, _ in selected:
         history['sent'][c['repo']['full_name'].lower()] = now.isoformat()
     save_history(history)
-    LOG.info('Sent %d repos to Discord and saved history', len(selected))
+    save_feed(feed_document(selected, now.date().isoformat()))
+    LOG.info('Sent %d repos to Discord and saved history/feed', len(selected))
     return 0
 
 
