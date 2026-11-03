@@ -3,72 +3,72 @@
   "date": "2026-11-03",
   "repos": [
     {
-      "full_name": "Leonxlnx/earshot",
-      "html_url": "https://github.com/Leonxlnx/earshot",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "stars": 3697,
-      "language": "Python",
+      "full_name": "exzade/EXZA-Remote",
+      "html_url": "https://github.com/exzade/EXZA-Remote",
+      "description": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+      "stars": 176,
+      "language": "",
       "categories": [
         "agents"
       ],
-      "score": 63.5,
-      "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "score": 64.2,
+      "summary": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Rijalmoneyfinder/mcp-game-asset-forge",
-      "html_url": "https://github.com/Rijalmoneyfinder/mcp-game-asset-forge",
-      "description": "MCP: Python Tools for Turning AI Prompts into Game Assets",
-      "stars": 69,
-      "language": "HTML",
+      "full_name": "Brandon04Gonzalez/p5r-android",
+      "html_url": "https://github.com/Brandon04Gonzalez/p5r-android",
+      "description": "Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)",
+      "stars": 141,
+      "language": "C++",
       "categories": [
         "games"
       ],
-      "score": 60.8,
-      "summary": "MCP: Python Tools for Turning AI Prompts into Game Assets",
+      "score": 60.7,
+      "summary": "Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "leonxger/deepseek-colab",
-      "html_url": "https://github.com/leonxger/deepseek-colab",
-      "description": "Uncensored DeepSeek-V4.1-Flash IQ2_XS on Google Colab",
-      "stars": 38,
-      "language": "Python",
+      "full_name": "Verlintas/NOIR",
+      "html_url": "https://github.com/Verlintas/NOIR",
+      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "stars": 1745,
+      "language": "Kotlin",
+      "categories": [
+        "tools"
+      ],
+      "score": 59.9,
+      "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "salihcantekin/ruvio",
+      "html_url": "https://github.com/salihcantekin/ruvio",
+      "description": "In-memory key-value server in Rust that speaks RESP, so redis-cli and Redis clients connect. Locks, rate limits, job queues and a change feed are single commands; Raft-based failover. Clients for Rust, .NET, Go, Java, Python and Node.js.",
+      "stars": 213,
+      "language": "Rust",
       "categories": [
         "systems"
       ],
-      "score": 56.7,
-      "summary": "Uncensored DeepSeek-V4.1-Flash IQ2_XS on Google Colab",
+      "score": 56.1,
+      "summary": "In-memory key-value server in Rust that speaks RESP, so redis-cli and Redis clients connect. Locks, rate limits, job queues and a change feed are single commands; Raft-based failov",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "muaaz9329/cheap-ag",
-      "html_url": "https://github.com/muaaz9329/cheap-ag",
-      "description": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.",
-      "stars": 246,
-      "language": "TypeScript",
-      "categories": [
-        "agents"
-      ],
-      "score": 63.4,
-      "summary": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Cod",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "reacher-z/Awesome-REA",
-      "html_url": "https://github.com/reacher-z/Awesome-REA",
-      "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
-      "stars": 892,
+      "full_name": "phone-harness/mcp",
+      "html_url": "https://github.com/phone-harness/mcp",
+      "description": "Connect AI agents to real iPhones and Androids",
+      "stars": 470,
       "language": "Python",
       "categories": [
         "agents"
       ],
-      "score": 63.1,
-      "summary": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
+      "score": 62.9,
+      "summary": "Connect AI agents to real iPhones and Androids",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
