@@ -1,6 +1,6 @@
 # 🛰️ GitHub Scout
 
-Personalized, daily GitHub discovery → OpenAI analysis → Discord embeds. Tracks already-sent projects in `data/history.json` to reduce repeats.
+Personalized, daily GitHub discovery → Gemini analysis → Discord embeds. Tracks already-sent projects in `data/history.json` to reduce repeats.
 
 ## Features
 
@@ -15,9 +15,9 @@ Personalized, daily GitHub discovery → OpenAI analysis → Discord embeds. Tra
 
 In a Discord server channel where you have Manage Webhooks permission: **Edit Channel → Integrations → Webhooks → New Webhook → Copy Webhook URL**. Keep the complete URL private. Normal text channels work best. It should look like `https://discord.com/api/webhooks/.../...`.
 
-## 2. Create an OpenAI API key
+## 2. Create a Gemini API key
 
-At https://platform.openai.com/api-keys create a project API key and configure billing/usage limits if needed. **ChatGPT Plus does not include API credits.** If your account lacks access to the default model, change `OPENAI_MODEL` (repository variable) to an available model supported by the Responses API.
+At https://aistudio.google.com/api-keys create a Gemini API key. Free-tier access and rate limits depend on project eligibility and selected model. If necessary, change `GEMINI_MODEL` (repository variable) to a model available to your project.
 
 ## 3. Publish to GitHub
 
@@ -36,7 +36,7 @@ git push -u origin main
 
 4. In GitHub **Settings → Secrets and variables → Actions → Secrets**, add:
    - `DISCORD_WEBHOOK_URL`: complete Discord webhook URL
-   - `OPENAI_API_KEY`: your API key
+   - `GEMINI_API_KEY`: your Gemini API key
 5. GitHub provides `GITHUB_TOKEN` automatically; you do **not** need a personal access token. In **Settings → Actions → General → Workflow permissions**, choose **Read and write permissions** if needed for the history commit (the workflow also declares `contents: write`).
 6. In **Actions → Daily GitHub Scout → Run workflow**, run manually. Check its logs and your Discord channel.
 
@@ -57,7 +57,7 @@ Edit `.env` with your secrets and load it (shell):
 set -a; source .env; set +a          # bash/zsh
 python -m scout.main --test-webhook  # sends a harmless test message
 python -m scout.main --dry-run       # searches + AI review, no Discord message, history unchanged
-python -m scout.main --dry-run --no-ai   # tests without spending OpenAI credits
+python -m scout.main --dry-run --no-ai   # tests without spending Gemini API usage
 python -m scout.main                # actually sends and updates data/history.json
 pytest -q
 ```
@@ -66,7 +66,7 @@ pytest -q
 
 ## 5. Personalization
 
-Edit `config.yaml` to change topic weights, GitHub Search queries, maximum recommendations (set `max_repos: 3` for three), recency (21 days), selection threshold, or model. Decrease `candidate_limit` to spend less on reading README snippets. Use repository **Settings → Secrets and variables → Actions → Variables** with `OPENAI_MODEL` if you want another model.
+Edit `config.yaml` to change topic weights, GitHub Search queries, maximum recommendations (set `max_repos: 3` for three), recency (21 days), selection threshold, or model. Decrease `candidate_limit` to spend less on reading README snippets. Use repository **Settings → Secrets and variables → Actions → Variables** with `GEMINI_MODEL` if you want another model.
 
 ## Operational notes and limitations
 
@@ -74,5 +74,5 @@ Edit `config.yaml` to change topic weights, GitHub Search queries, maximum recom
 - AI reviews are generated from GitHub metadata and excerpts and can be wrong. Verify repo licenses, activity and safety before executing code.
 - API failure falls back to metadata descriptions; missing results may lead to fewer than three recommendations. Repos with zero matches or only previously sent repos cause no message that day.
 - `data/history.json` is committed only after Discord confirms a message. A git push failure after delivery can cause duplicate recommendations next time; rerun after fixing permissions.
-- Model usage incurs API charges; the free GitHub Actions allowance depends on repository/account type. See your respective billing pages.
+- Model usage may incur API charges depending on your Gemini project and tier; the free GitHub Actions allowance depends on repository/account type. See your respective billing pages.
 - For high-reliability production use, pin GitHub Actions to immutable SHAs, add notifications for workflow failures and move history to durable external storage.

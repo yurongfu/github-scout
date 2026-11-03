@@ -3,7 +3,7 @@ candidate_limit: 30
 minimum_score: 35
 lookback_days: 21
 history_days: 120
-ai_model: gpt-5.5
+ai_model: gemini-2.5-flash-lite
 categories:
   agents:
     weight: 35
