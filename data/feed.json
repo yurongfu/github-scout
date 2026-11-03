@@ -1,5 +1,76 @@
 {
   "schema_version": 1,
-  "date": "",
-  "repos": []
+  "date": "2026-11-03",
+  "repos": [
+    {
+      "full_name": "Leonxlnx/earshot",
+      "html_url": "https://github.com/Leonxlnx/earshot",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "stars": 3697,
+      "language": "Python",
+      "categories": [
+        "agents"
+      ],
+      "score": 63.5,
+      "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "Rijalmoneyfinder/mcp-game-asset-forge",
+      "html_url": "https://github.com/Rijalmoneyfinder/mcp-game-asset-forge",
+      "description": "MCP: Python Tools for Turning AI Prompts into Game Assets",
+      "stars": 69,
+      "language": "HTML",
+      "categories": [
+        "games"
+      ],
+      "score": 60.8,
+      "summary": "MCP: Python Tools for Turning AI Prompts into Game Assets",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "leonxger/deepseek-colab",
+      "html_url": "https://github.com/leonxger/deepseek-colab",
+      "description": "Uncensored DeepSeek-V4.1-Flash IQ2_XS on Google Colab",
+      "stars": 38,
+      "language": "Python",
+      "categories": [
+        "systems"
+      ],
+      "score": 56.7,
+      "summary": "Uncensored DeepSeek-V4.1-Flash IQ2_XS on Google Colab",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "muaaz9329/cheap-ag",
+      "html_url": "https://github.com/muaaz9329/cheap-ag",
+      "description": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Code & Codex.",
+      "stars": 246,
+      "language": "TypeScript",
+      "categories": [
+        "agents"
+      ],
+      "score": 63.4,
+      "summary": "50x your usage with cheap-ag. Opus/Astra plans, a dirt-cheap model writes every line, and tests decide what ships. Your $20 plan stops hitting limits. One MCP server for Claude Cod",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "reacher-z/Awesome-REA",
+      "html_url": "https://github.com/reacher-z/Awesome-REA",
+      "description": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
+      "stars": 892,
+      "language": "Python",
+      "categories": [
+        "agents"
+      ],
+      "score": 63.1,
+      "summary": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    }
+  ]
 }
