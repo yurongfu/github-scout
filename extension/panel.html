@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GitHub Scout</title><link rel="stylesheet" href="panel.css"></head>
+<body>
+  <header><div class="brand"><span class="logo">✦</span><span>GitHub <b>Scout</b></span></div><span class="eyebrow">YOUR OPEN SOURCE RADAR</span></header>
+  <main>
+    <div class="hero"><span class="eyebrow">DISCOVER / EXPLORE / BUILD</span><h1>Find your next<br><em>obsession.</em></h1><p>值得你打开的开源项目。</p></div>
+    <nav class="tabs" aria-label="Views"><button class="tab active" data-view="discover">✧ Discover</button><button class="tab" data-view="analyze">⌘ Analyze</button><button class="tab" data-view="saved">♡ Saved</button></nav>
+    <section id="discover" class="view"><div class="section-header"><div><span class="eyebrow">TODAY'S CURATION</span><h2>Daily picks <span id="feed-count" class="count"></span></h2></div><button id="refresh" class="icon-btn" title="Refresh feed">↻</button></div><div id="feed-status" class="hint">Loading your discoveries…</div><div id="feed-list" class="cards"></div></section>
+    <section id="analyze" class="view hidden"><div class="section-header"><div><span class="eyebrow">REPO INTELLIGENCE</span><h2>Deep dive</h2></div></div><p class="muted">打开 GitHub 仓库页面，然后点击分析。也可以粘贴 Repo URL。</p><label for="repo-url">Repository URL</label><input id="repo-url" placeholder="https://github.com/owner/repo" autocomplete="off"><button id="current-tab" class="secondary">↗ 使用当前 GitHub 标签页</button><button id="analyze-btn" class="primary">✦ Analyze with Gemini</button><div id="analyze-status" class="hint"></div><div id="analysis-result"></div></section>
+    <section id="saved" class="view hidden"><div class="section-header"><div><span class="eyebrow">YOUR COLLECTION</span><h2>Bookmarks</h2></div></div><div id="saved-list" class="cards"></div></section>
+    <details class="settings"><summary>⚙ Settings / Connection</summary><label for="feed-owner">Public GitHub feed owner</label><input id="feed-owner" placeholder="yurongfu"><label for="feed-repo">Repo name</label><input id="feed-repo" placeholder="github-scout"><label for="worker-url">Cloudflare Worker URL</label><input id="worker-url" placeholder="https://github-scout-analyzer.….workers.dev"><label for="access-token">Private access token (not Gemini API key)</label><input id="access-token" type="password" placeholder="SCOUT_ACCESS_TOKEN"><button id="save-settings" class="secondary">Save settings</button><div id="settings-status" class="hint"></div><p class="muted tiny">你的 Gemini Key 只保存在 Worker Secret 中。此处输入单独的访问令牌；不要使用 Gemini Key。</p></details>
+  </main>
+  <footer><span>✦ CURATED WITH AI</span><span>v0.1 · MV3</span></footer>
+  <script type="module" src="panel.js"></script>
+</body></html>
