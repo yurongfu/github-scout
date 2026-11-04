@@ -1,74 +1,75 @@
 {
   "schema_version": 1,
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "repos": [
     {
-      "full_name": "exzade/EXZA-Remote",
-      "html_url": "https://github.com/exzade/EXZA-Remote",
-      "description": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
-      "stars": 176,
-      "language": "",
+      "full_name": "KKKKhazix/agent-autoloop",
+      "html_url": "https://github.com/KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "stars": 2388,
+      "language": "TypeScript",
       "categories": [
-        "agents"
+        "agents",
+        "tools"
       ],
-      "score": 64.2,
-      "summary": "Secure AI-powered remote computer access for ChatGPT, Claude and compatible MCP clients.",
+      "score": 66.8,
+      "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Brandon04Gonzalez/p5r-android",
-      "html_url": "https://github.com/Brandon04Gonzalez/p5r-android",
-      "description": "Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)",
-      "stars": 141,
-      "language": "C++",
+      "full_name": "Turquoisesicoil/jenny-mod-reforged",
+      "html_url": "https://github.com/Turquoisesicoil/jenny-mod-reforged",
+      "description": "Unofficial Jenny Mod reforged for Forge 1.18 - 1.21.11. Rebuilt NPC AI, restored textures, and zero crashes on modern Minecraft.",
+      "stars": 46,
+      "language": "",
       "categories": [
         "games"
       ],
-      "score": 60.7,
-      "summary": "Persona 5 Royal for Android: a native port that runs your own dump (the APK holds no game code or data)",
+      "score": 61.1,
+      "summary": "Unofficial Jenny Mod reforged for Forge 1.18 - 1.21.11. Rebuilt NPC AI, restored textures, and zero crashes on modern Minecraft.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Verlintas/NOIR",
-      "html_url": "https://github.com/Verlintas/NOIR",
-      "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-      "stars": 1745,
-      "language": "Kotlin",
+      "full_name": "govijr/terminal-mac",
+      "html_url": "https://github.com/govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
+      "stars": 1410,
+      "language": "Swift",
       "categories": [
         "tools"
       ],
-      "score": 59.9,
-      "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "score": 60.1,
+      "summary": "Entire MacOS running in your terminal.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "salihcantekin/ruvio",
-      "html_url": "https://github.com/salihcantekin/ruvio",
-      "description": "In-memory key-value server in Rust that speaks RESP, so redis-cli and Redis clients connect. Locks, rate limits, job queues and a change feed are single commands; Raft-based failover. Clients for Rust, .NET, Go, Java, Python and Node.js.",
-      "stars": 213,
-      "language": "Rust",
+      "full_name": "datasifaw/MiniBank_Cpp",
+      "html_url": "https://github.com/datasifaw/MiniBank_Cpp",
+      "description": "MiniBank - Simulation bancaire en C++",
+      "stars": 93,
+      "language": "C++",
       "categories": [
         "systems"
       ],
-      "score": 56.1,
-      "summary": "In-memory key-value server in Rust that speaks RESP, so redis-cli and Redis clients connect. Locks, rate limits, job queues and a change feed are single commands; Raft-based failov",
+      "score": 55.9,
+      "summary": "MiniBank - Simulation bancaire en C++",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "phone-harness/mcp",
-      "html_url": "https://github.com/phone-harness/mcp",
-      "description": "Connect AI agents to real iPhones and Androids",
-      "stars": 470,
+      "full_name": "N1nEmAn/sapper-v2",
+      "html_url": "https://github.com/N1nEmAn/sapper-v2",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "stars": 785,
       "language": "Python",
       "categories": [
         "agents"
       ],
-      "score": 62.9,
-      "summary": "Connect AI agents to real iPhones and Androids",
+      "score": 64.0,
+      "summary": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens b",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
