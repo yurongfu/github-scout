@@ -1,75 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "repos": [
     {
-      "full_name": "KKKKhazix/agent-autoloop",
-      "html_url": "https://github.com/KKKKhazix/agent-autoloop",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "stars": 2388,
-      "language": "TypeScript",
+      "full_name": "reason-machines/reason-network",
+      "html_url": "https://github.com/reason-machines/reason-network",
+      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "stars": 1526,
+      "language": "Rust",
       "categories": [
-        "agents",
-        "tools"
+        "agents"
       ],
-      "score": 66.8,
-      "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "score": 62.6,
+      "summary": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Turquoisesicoil/jenny-mod-reforged",
-      "html_url": "https://github.com/Turquoisesicoil/jenny-mod-reforged",
-      "description": "Unofficial Jenny Mod reforged for Forge 1.18 - 1.21.11. Rebuilt NPC AI, restored textures, and zero crashes on modern Minecraft.",
-      "stars": 46,
+      "full_name": "leviathaneggfold/verity-remastered",
+      "html_url": "https://github.com/leviathaneggfold/verity-remastered",
+      "description": "Unofficial Verity Remaster for Minecraft Forge 1.18 - 1.21.11. Upgraded AI, restored lore, and new terrifying models.",
+      "stars": 50,
       "language": "",
       "categories": [
         "games"
       ],
-      "score": 61.1,
-      "summary": "Unofficial Jenny Mod reforged for Forge 1.18 - 1.21.11. Rebuilt NPC AI, restored textures, and zero crashes on modern Minecraft.",
+      "score": 60.6,
+      "summary": "Unofficial Verity Remaster for Minecraft Forge 1.18 - 1.21.11. Upgraded AI, restored lore, and new terrifying models.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "govijr/terminal-mac",
-      "html_url": "https://github.com/govijr/terminal-mac",
-      "description": "Entire MacOS running in your terminal.",
-      "stars": 1410,
-      "language": "Swift",
+      "full_name": "AssassinCreator/steam-stash-value-report-card",
+      "html_url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "stars": 802,
+      "language": "Python",
       "categories": [
         "tools"
       ],
-      "score": 60.1,
-      "summary": "Entire MacOS running in your terminal.",
+      "score": 59.2,
+      "summary": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "datasifaw/MiniBank_Cpp",
-      "html_url": "https://github.com/datasifaw/MiniBank_Cpp",
-      "description": "MiniBank - Simulation bancaire en C++",
-      "stars": 93,
-      "language": "C++",
+      "full_name": "skydiscover-ai/jitengine",
+      "html_url": "https://github.com/skydiscover-ai/jitengine",
+      "description": "LLM serving engines that SkyDiscover builds on the fly for specific AI models and hardware: Qwen3.6-35B-A3B, Qwen3.8-Flash-Next and Flint on Apple silicon Macs",
+      "stars": 23,
+      "language": "Python",
       "categories": [
         "systems"
       ],
-      "score": 55.9,
-      "summary": "MiniBank - Simulation bancaire en C++",
+      "score": 55.5,
+      "summary": "LLM serving engines that SkyDiscover builds on the fly for specific AI models and hardware: Qwen3.6-35B-A3B, Qwen3.8-Flash-Next and Flint on Apple silicon Macs",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "N1nEmAn/sapper-v2",
-      "html_url": "https://github.com/N1nEmAn/sapper-v2",
-      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "stars": 785,
+      "full_name": "actionow-ai/vvv",
+      "html_url": "https://github.com/actionow-ai/vvv",
+      "description": "一次构建视频模板，多次复用：给 Claude Code、Codex 等 25+ 个 Agent 的开源可编辑婚礼视频模板与 Agent Skill。Build a video template once, reuse it across coding agents.",
+      "stars": 524,
       "language": "Python",
       "categories": [
         "agents"
       ],
-      "score": 64.0,
-      "summary": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens b",
+      "score": 62.5,
+      "summary": "一次构建视频模板，多次复用：给 Claude Code、Codex 等 25+ 个 Agent 的开源可编辑婚礼视频模板与 Agent Skill。Build a video template once, reuse it across coding agents.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
