@@ -1,74 +1,75 @@
 {
   "schema_version": 1,
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "repos": [
     {
-      "full_name": "reason-machines/reason-network",
-      "html_url": "https://github.com/reason-machines/reason-network",
-      "description": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-      "stars": 1526,
-      "language": "Rust",
+      "full_name": "chutingyean/Agent-Cockpit",
+      "html_url": "https://github.com/chutingyean/Agent-Cockpit",
+      "description": "Evidence-chain whiteboard + MCP server for AI research agents: every claim traces back to the run and code that produced it. 讓 AI agent 做研究時，每個結論都能追到產生它的程式碼。Claude Code · Codex · Cursor · Gemini CLI",
+      "stars": 382,
+      "language": "JavaScript",
       "categories": [
-        "agents"
+        "agents",
+        "tools"
       ],
-      "score": 62.6,
-      "summary": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+      "score": 63.3,
+      "summary": "Evidence-chain whiteboard + MCP server for AI research agents: every claim traces back to the run and code that produced it. 讓 AI agent 做研究時，每個結論都能追到產生它的程式碼。Claude Code · Codex · C",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "leviathaneggfold/verity-remastered",
-      "html_url": "https://github.com/leviathaneggfold/verity-remastered",
-      "description": "Unofficial Verity Remaster for Minecraft Forge 1.18 - 1.21.11. Upgraded AI, restored lore, and new terrifying models.",
-      "stars": 50,
-      "language": "",
+      "full_name": "nekomancer01/DarkSoulsPS2",
+      "html_url": "https://github.com/nekomancer01/DarkSoulsPS2",
+      "description": "Homebrew PS2 port of Dark Souls Remastered: C/VU1 engine plus exporters that read your own copy of the game (no game data included)",
+      "stars": 68,
+      "language": "C",
       "categories": [
         "games"
       ],
       "score": 60.6,
-      "summary": "Unofficial Verity Remaster for Minecraft Forge 1.18 - 1.21.11. Upgraded AI, restored lore, and new terrifying models.",
+      "summary": "Homebrew PS2 port of Dark Souls Remastered: C/VU1 engine plus exporters that read your own copy of the game (no game data included)",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "AssassinCreator/steam-stash-value-report-card",
-      "html_url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-      "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "stars": 802,
-      "language": "Python",
+      "full_name": "JosssphZhou/poki",
+      "html_url": "https://github.com/JosssphZhou/poki",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "stars": 398,
+      "language": "JavaScript",
       "categories": [
         "tools"
       ],
-      "score": 59.2,
-      "summary": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "score": 59.8,
+      "summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "skydiscover-ai/jitengine",
-      "html_url": "https://github.com/skydiscover-ai/jitengine",
-      "description": "LLM serving engines that SkyDiscover builds on the fly for specific AI models and hardware: Qwen3.6-35B-A3B, Qwen3.8-Flash-Next and Flint on Apple silicon Macs",
-      "stars": 23,
+      "full_name": "OmniJev/Flide",
+      "html_url": "https://github.com/OmniJev/Flide",
+      "description": "🔥🔥 Accelerating decision inference with exact state forking",
+      "stars": 26,
       "language": "Python",
       "categories": [
         "systems"
       ],
-      "score": 55.5,
-      "summary": "LLM serving engines that SkyDiscover builds on the fly for specific AI models and hardware: Qwen3.6-35B-A3B, Qwen3.8-Flash-Next and Flint on Apple silicon Macs",
+      "score": 54.9,
+      "summary": "🔥🔥 Accelerating decision inference with exact state forking",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "actionow-ai/vvv",
-      "html_url": "https://github.com/actionow-ai/vvv",
-      "description": "一次构建视频模板，多次复用：给 Claude Code、Codex 等 25+ 个 Agent 的开源可编辑婚礼视频模板与 Agent Skill。Build a video template once, reuse it across coding agents.",
-      "stars": 524,
-      "language": "Python",
+      "full_name": "sahenjp/RustXNG",
+      "html_url": "https://github.com/sahenjp/RustXNG",
+      "description": "Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rust, JSON API, optional page text.",
+      "stars": 870,
+      "language": "Rust",
       "categories": [
         "agents"
       ],
-      "score": 62.5,
-      "summary": "一次构建视频模板，多次复用：给 Claude Code、Codex 等 25+ 个 Agent 的开源可编辑婚礼视频模板与 Agent Skill。Build a video template once, reuse it across coding agents.",
+      "score": 62.3,
+      "summary": "Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rust, JSON API, optional page text.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
