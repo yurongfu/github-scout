@@ -1,75 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "repos": [
     {
-      "full_name": "chutingyean/Agent-Cockpit",
-      "html_url": "https://github.com/chutingyean/Agent-Cockpit",
-      "description": "Evidence-chain whiteboard + MCP server for AI research agents: every claim traces back to the run and code that produced it. 讓 AI agent 做研究時，每個結論都能追到產生它的程式碼。Claude Code · Codex · Cursor · Gemini CLI",
-      "stars": 382,
-      "language": "JavaScript",
-      "categories": [
-        "agents",
-        "tools"
-      ],
-      "score": 63.3,
-      "summary": "Evidence-chain whiteboard + MCP server for AI research agents: every claim traces back to the run and code that produced it. 讓 AI agent 做研究時，每個結論都能追到產生它的程式碼。Claude Code · Codex · C",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "nekomancer01/DarkSoulsPS2",
-      "html_url": "https://github.com/nekomancer01/DarkSoulsPS2",
-      "description": "Homebrew PS2 port of Dark Souls Remastered: C/VU1 engine plus exporters that read your own copy of the game (no game data included)",
-      "stars": 68,
-      "language": "C",
-      "categories": [
-        "games"
-      ],
-      "score": 60.6,
-      "summary": "Homebrew PS2 port of Dark Souls Remastered: C/VU1 engine plus exporters that read your own copy of the game (no game data included)",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "JosssphZhou/poki",
-      "html_url": "https://github.com/JosssphZhou/poki",
-      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "stars": 398,
-      "language": "JavaScript",
-      "categories": [
-        "tools"
-      ],
-      "score": 59.8,
-      "summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "OmniJev/Flide",
-      "html_url": "https://github.com/OmniJev/Flide",
-      "description": "🔥🔥 Accelerating decision inference with exact state forking",
-      "stars": 26,
-      "language": "Python",
-      "categories": [
-        "systems"
-      ],
-      "score": 54.9,
-      "summary": "🔥🔥 Accelerating decision inference with exact state forking",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "sahenjp/RustXNG",
-      "html_url": "https://github.com/sahenjp/RustXNG",
-      "description": "Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rust, JSON API, optional page text.",
-      "stars": 870,
+      "full_name": "voyager-so/vork",
+      "html_url": "https://github.com/voyager-so/vork",
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "stars": 789,
       "language": "Rust",
       "categories": [
         "agents"
       ],
-      "score": 62.3,
-      "summary": "Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rust, JSON API, optional page text.",
+      "score": 66.0,
+      "summary": "Headless 3D and VFX engine for agents. Research preview.",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "NoiseGlyph/MELE-Godot-Extractor-resocket",
+      "html_url": "https://github.com/NoiseGlyph/MELE-Godot-Extractor-resocket",
+      "description": "Exports Mass Effect Legendary Edition models, levels, and music to glTF for Godot, from your own install, via Legendary Explorer.",
+      "stars": 67,
+      "language": "",
+      "categories": [
+        "games"
+      ],
+      "score": 60.6,
+      "summary": "Exports Mass Effect Legendary Edition models, levels, and music to glTF for Godot, from your own install, via Legendary Explorer.",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "devvmhq/devvm",
+      "html_url": "https://github.com/devvmhq/devvm",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "stars": 335,
+      "language": "Go",
+      "categories": [
+        "tools"
+      ],
+      "score": 59.6,
+      "summary": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "spiderveer1-byte/play-reactive-slick",
+      "html_url": "https://github.com/spiderveer1-byte/play-reactive-slick",
+      "description": "Play + Postgres starter template with a clean UI",
+      "stars": 149,
+      "language": "HTML",
+      "categories": [
+        "systems"
+      ],
+      "score": 58.9,
+      "summary": "Play + Postgres starter template with a clean UI",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "Glen-Web-App/best-agent-memory-mcp",
+      "html_url": "https://github.com/Glen-Web-App/best-agent-memory-mcp",
+      "description": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.",
+      "stars": 211,
+      "language": "",
+      "categories": [
+        "agents"
+      ],
+      "score": 64.7,
+      "summary": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claud",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
