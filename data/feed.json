@@ -1,74 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "repos": [
     {
-      "full_name": "voyager-so/vork",
-      "html_url": "https://github.com/voyager-so/vork",
-      "description": "Headless 3D and VFX engine for agents. Research preview.",
-      "stars": 789,
-      "language": "Rust",
+      "full_name": "shanselman/sandbox-mcp",
+      "html_url": "https://github.com/shanselman/sandbox-mcp",
+      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+      "stars": 322,
+      "language": "JavaScript",
       "categories": [
         "agents"
       ],
-      "score": 66.0,
-      "summary": "Headless 3D and VFX engine for agents. Research preview.",
+      "score": 64.9,
+      "summary": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "NoiseGlyph/MELE-Godot-Extractor-resocket",
-      "html_url": "https://github.com/NoiseGlyph/MELE-Godot-Extractor-resocket",
-      "description": "Exports Mass Effect Legendary Edition models, levels, and music to glTF for Godot, from your own install, via Legendary Explorer.",
-      "stars": 67,
-      "language": "",
+      "full_name": "DECRUX9812/hermes-plugin-gameforge",
+      "html_url": "https://github.com/DECRUX9812/hermes-plugin-gameforge",
+      "description": "Game development plugin for Hermes Agent: sound effects, music, NPC voices, pixel art, 3D models, Godot/Unity/Blender/Unreal, a playtester that actually plays the build, and one-click export.",
+      "stars": 46,
+      "language": "Python",
       "categories": [
         "games"
       ],
-      "score": 60.6,
-      "summary": "Exports Mass Effect Legendary Edition models, levels, and music to glTF for Godot, from your own install, via Legendary Explorer.",
+      "score": 59.7,
+      "summary": "Game development plugin for Hermes Agent: sound effects, music, NPC voices, pixel art, 3D models, Godot/Unity/Blender/Unreal, a playtester that actually plays the build, and one-cl",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "devvmhq/devvm",
-      "html_url": "https://github.com/devvmhq/devvm",
-      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "stars": 335,
-      "language": "Go",
-      "categories": [
-        "tools"
-      ],
-      "score": 59.6,
-      "summary": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "spiderveer1-byte/play-reactive-slick",
-      "html_url": "https://github.com/spiderveer1-byte/play-reactive-slick",
-      "description": "Play + Postgres starter template with a clean UI",
-      "stars": 149,
+      "full_name": "AbhiKamane/ai-app-builder-open",
+      "html_url": "https://github.com/AbhiKamane/ai-app-builder-open",
+      "description": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
+      "stars": 244,
       "language": "HTML",
       "categories": [
         "systems"
       ],
-      "score": 58.9,
-      "summary": "Play + Postgres starter template with a clean UI",
+      "score": 59.5,
+      "summary": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Glen-Web-App/best-agent-memory-mcp",
-      "html_url": "https://github.com/Glen-Web-App/best-agent-memory-mcp",
-      "description": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.",
-      "stars": 211,
+      "full_name": "PaladinSmash84/aida-64-extreme",
+      "html_url": "https://github.com/PaladinSmash84/aida-64-extreme",
+      "description": "AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local...",
+      "stars": 302,
       "language": "",
+      "categories": [
+        "tools"
+      ],
+      "score": 59.5,
+      "summary": "AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local...",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "gogoymh/auto-ontology-mcp",
+      "html_url": "https://github.com/gogoymh/auto-ontology-mcp",
+      "description": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
+      "stars": 200,
+      "language": "Python",
       "categories": [
         "agents"
       ],
-      "score": 64.7,
-      "summary": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claud",
+      "score": 64.6,
+      "summary": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
