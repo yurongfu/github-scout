@@ -1,74 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "repos": [
     {
-      "full_name": "shanselman/sandbox-mcp",
-      "html_url": "https://github.com/shanselman/sandbox-mcp",
-      "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
-      "stars": 322,
+      "full_name": "kubai087/kubai-icons",
+      "html_url": "https://github.com/kubai087/kubai-icons",
+      "description": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.",
+      "stars": 564,
       "language": "JavaScript",
       "categories": [
         "agents"
       ],
-      "score": 64.9,
-      "summary": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+      "score": 64.0,
+      "summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a ",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "DECRUX9812/hermes-plugin-gameforge",
-      "html_url": "https://github.com/DECRUX9812/hermes-plugin-gameforge",
-      "description": "Game development plugin for Hermes Agent: sound effects, music, NPC voices, pixel art, 3D models, Godot/Unity/Blender/Unreal, a playtester that actually plays the build, and one-click export.",
-      "stars": 46,
-      "language": "Python",
+      "full_name": "TwilightHairdresser/jenny-mod-archive",
+      "html_url": "https://github.com/TwilightHairdresser/jenny-mod-archive",
+      "description": "Community archive and remaster of the Jenny Mod (Fapcraft) for Minecraft Forge 1.18 - 1.21.11. Upgraded AI and restored models.",
+      "stars": 78,
+      "language": "Java",
       "categories": [
         "games"
       ],
-      "score": 59.7,
-      "summary": "Game development plugin for Hermes Agent: sound effects, music, NPC voices, pixel art, 3D models, Godot/Unity/Blender/Unreal, a playtester that actually plays the build, and one-cl",
+      "score": 61.1,
+      "summary": "Community archive and remaster of the Jenny Mod (Fapcraft) for Minecraft Forge 1.18 - 1.21.11. Upgraded AI and restored models.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "AbhiKamane/ai-app-builder-open",
-      "html_url": "https://github.com/AbhiKamane/ai-app-builder-open",
-      "description": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
-      "stars": 244,
-      "language": "HTML",
-      "categories": [
-        "systems"
-      ],
-      "score": 59.5,
-      "summary": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "PaladinSmash84/aida-64-extreme",
-      "html_url": "https://github.com/PaladinSmash84/aida-64-extreme",
-      "description": "AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local...",
-      "stars": 302,
-      "language": "",
+      "full_name": "l0ng-ai/openidea",
+      "html_url": "https://github.com/l0ng-ai/openidea",
+      "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+      "stars": 8151,
+      "language": "TypeScript",
       "categories": [
         "tools"
       ],
-      "score": 59.5,
-      "summary": "AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local...",
+      "score": 58.7,
+      "summary": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and ",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "gogoymh/auto-ontology-mcp",
-      "html_url": "https://github.com/gogoymh/auto-ontology-mcp",
-      "description": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
-      "stars": 200,
+      "full_name": "RunanywhereAI/trnrt",
+      "html_url": "https://github.com/RunanywhereAI/trnrt",
+      "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+      "stars": 276,
       "language": "Python",
+      "categories": [
+        "systems"
+      ],
+      "score": 58.1,
+      "summary": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "wanghao-SunSky/cs329z-chinese",
+      "html_url": "https://github.com/wanghao-SunSky/cs329z-chinese",
+      "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
+      "stars": 535,
+      "language": "HTML",
       "categories": [
         "agents"
       ],
-      "score": 64.6,
-      "summary": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
+      "score": 63.4,
+      "summary": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
