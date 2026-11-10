@@ -1,74 +1,75 @@
 {
   "schema_version": 1,
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "repos": [
     {
-      "full_name": "kubai087/kubai-icons",
-      "html_url": "https://github.com/kubai087/kubai-icons",
-      "description": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them.",
-      "stars": 564,
-      "language": "JavaScript",
+      "full_name": "dabingfy-dot/solo-to-team-skills",
+      "html_url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+      "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+      "stars": 548,
+      "language": "",
       "categories": [
         "agents"
       ],
-      "score": 64.0,
-      "summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a ",
+      "score": 64.2,
+      "summary": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "TwilightHairdresser/jenny-mod-archive",
-      "html_url": "https://github.com/TwilightHairdresser/jenny-mod-archive",
-      "description": "Community archive and remaster of the Jenny Mod (Fapcraft) for Minecraft Forge 1.18 - 1.21.11. Upgraded AI and restored models.",
-      "stars": 78,
-      "language": "Java",
+      "full_name": "Zengkailin/parametric-topdown-pixel-architecture",
+      "html_url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+      "description": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+      "stars": 184,
+      "language": "JavaScript",
       "categories": [
         "games"
       ],
-      "score": 61.1,
-      "summary": "Community archive and remaster of the Jenny Mod (Fapcraft) for Minecraft Forge 1.18 - 1.21.11. Upgraded AI and restored models.",
+      "score": 60.0,
+      "summary": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "l0ng-ai/openidea",
-      "html_url": "https://github.com/l0ng-ai/openidea",
-      "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
-      "stars": 8151,
+      "full_name": "tss878/delta-executor-toolkit",
+      "html_url": "https://github.com/tss878/delta-executor-toolkit",
+      "description": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+      "stars": 678,
       "language": "TypeScript",
       "categories": [
         "tools"
       ],
-      "score": 58.7,
-      "summary": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and ",
+      "score": 59.1,
+      "summary": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "RunanywhereAI/trnrt",
-      "html_url": "https://github.com/RunanywhereAI/trnrt",
-      "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
-      "stars": 276,
-      "language": "Python",
+      "full_name": "cacheMon/PrefixSim",
+      "html_url": "https://github.com/cacheMon/PrefixSim",
+      "description": "A simulator for LLM Inference prefix cache",
+      "stars": 71,
+      "language": "C++",
       "categories": [
         "systems"
       ],
-      "score": 58.1,
-      "summary": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+      "score": 57.6,
+      "summary": "A simulator for LLM Inference prefix cache",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "wanghao-SunSky/cs329z-chinese",
-      "html_url": "https://github.com/wanghao-SunSky/cs329z-chinese",
-      "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
-      "stars": 535,
-      "language": "HTML",
+      "full_name": "stubbi/asm",
+      "html_url": "https://github.com/stubbi/asm",
+      "description": "The package registry and command-line tool for assembly projects.",
+      "stars": 586,
+      "language": "Python",
       "categories": [
-        "agents"
+        "agents",
+        "tools"
       ],
       "score": 63.4,
-      "summary": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
+      "summary": "The package registry and command-line tool for assembly projects.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
