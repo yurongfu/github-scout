@@ -1,75 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "repos": [
     {
-      "full_name": "dabingfy-dot/solo-to-team-skills",
-      "html_url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-      "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-      "stars": 548,
-      "language": "",
+      "full_name": "expo/exact",
+      "html_url": "https://github.com/expo/exact",
+      "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
+      "stars": 2846,
+      "language": "Rust",
       "categories": [
         "agents"
       ],
-      "score": 64.2,
-      "summary": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+      "score": 64.9,
+      "summary": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Zengkailin/parametric-topdown-pixel-architecture",
-      "html_url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
-      "description": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
-      "stars": 184,
-      "language": "JavaScript",
+      "full_name": "Harmonicdellafitting/minecraft-jenny-mod-download",
+      "html_url": "https://github.com/Harmonicdellafitting/minecraft-jenny-mod-download",
+      "description": "Download Jenny Mod Minecraft for Java and Bedrock Edition. Get new characters, gameplay features, installation guide, safe download links, and working mod files.",
+      "stars": 67,
+      "language": "Java",
       "categories": [
         "games"
       ],
-      "score": 60.0,
-      "summary": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+      "score": 61.5,
+      "summary": "Download Jenny Mod Minecraft for Java and Bedrock Edition. Get new characters, gameplay features, installation guide, safe download links, and working mod files.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "tss878/delta-executor-toolkit",
-      "html_url": "https://github.com/tss878/delta-executor-toolkit",
-      "description": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
-      "stars": 678,
-      "language": "TypeScript",
+      "full_name": "Arda313131882/aion-2-trainer-tool",
+      "html_url": "https://github.com/Arda313131882/aion-2-trainer-tool",
+      "description": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
+      "stars": 1296,
+      "language": "HTML",
       "categories": [
         "tools"
       ],
       "score": 59.1,
-      "summary": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+      "summary": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "cacheMon/PrefixSim",
-      "html_url": "https://github.com/cacheMon/PrefixSim",
-      "description": "A simulator for LLM Inference prefix cache",
-      "stars": 71,
-      "language": "C++",
+      "full_name": "JoaoGeraldes/system-design-playground",
+      "html_url": "https://github.com/JoaoGeraldes/system-design-playground",
+      "description": "Interactive system design practice: build a design, add users, see what breaks.",
+      "stars": 24,
+      "language": "TypeScript",
       "categories": [
         "systems"
       ],
-      "score": 57.6,
-      "summary": "A simulator for LLM Inference prefix cache",
+      "score": 54.4,
+      "summary": "Interactive system design practice: build a design, add users, see what breaks.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "stubbi/asm",
-      "html_url": "https://github.com/stubbi/asm",
-      "description": "The package registry and command-line tool for assembly projects.",
-      "stars": 586,
+      "full_name": "synchopate/llama-modchip",
+      "html_url": "https://github.com/synchopate/llama-modchip",
+      "description": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.",
+      "stars": 938,
       "language": "Python",
       "categories": [
-        "agents",
-        "tools"
+        "agents"
       ],
-      "score": 63.4,
-      "summary": "The package registry and command-line tool for assembly projects.",
+      "score": 62.6,
+      "summary": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claud",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
