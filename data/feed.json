@@ -1,74 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "repos": [
     {
-      "full_name": "expo/exact",
-      "html_url": "https://github.com/expo/exact",
-      "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-      "stars": 2846,
-      "language": "Rust",
+      "full_name": "agentes-chat/agentes-chat",
+      "html_url": "https://github.com/agentes-chat/agentes-chat",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "stars": 1110,
+      "language": "TypeScript",
       "categories": [
         "agents"
       ],
-      "score": 64.9,
-      "summary": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
+      "score": 66.8,
+      "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, the",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Harmonicdellafitting/minecraft-jenny-mod-download",
-      "html_url": "https://github.com/Harmonicdellafitting/minecraft-jenny-mod-download",
-      "description": "Download Jenny Mod Minecraft for Java and Bedrock Edition. Get new characters, gameplay features, installation guide, safe download links, and working mod files.",
-      "stars": 67,
-      "language": "Java",
+      "full_name": "afnan0356/world-dominion",
+      "html_url": "https://github.com/afnan0356/world-dominion",
+      "description": "An offline grand strategy sandbox where you lead nations, shape economies, build military power, influence global politics, and determine the future of a living world.",
+      "stars": 68,
+      "language": "GDScript",
       "categories": [
         "games"
       ],
-      "score": 61.5,
-      "summary": "Download Jenny Mod Minecraft for Java and Bedrock Edition. Get new characters, gameplay features, installation guide, safe download links, and working mod files.",
+      "score": 59.4,
+      "summary": "An offline grand strategy sandbox where you lead nations, shape economies, build military power, influence global politics, and determine the future of a living world.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Arda313131882/aion-2-trainer-tool",
-      "html_url": "https://github.com/Arda313131882/aion-2-trainer-tool",
-      "description": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
-      "stars": 1296,
+      "full_name": "mahmoudtawfik1998/secure-pdf-document-processor",
+      "html_url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+      "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+      "stars": 1212,
       "language": "HTML",
       "categories": [
         "tools"
       ],
-      "score": 59.1,
-      "summary": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
+      "score": 58.2,
+      "summary": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "JoaoGeraldes/system-design-playground",
-      "html_url": "https://github.com/JoaoGeraldes/system-design-playground",
-      "description": "Interactive system design practice: build a design, add users, see what breaks.",
-      "stars": 24,
-      "language": "TypeScript",
-      "categories": [
-        "systems"
-      ],
-      "score": 54.4,
-      "summary": "Interactive system design practice: build a design, add users, see what breaks.",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "synchopate/llama-modchip",
-      "html_url": "https://github.com/synchopate/llama-modchip",
-      "description": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.",
-      "stars": 938,
+      "full_name": "mutonby/agentring",
+      "html_url": "https://github.com/mutonby/agentring",
+      "description": "Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hosted, open source, no phone numbers or Twilio.",
+      "stars": 401,
       "language": "Python",
       "categories": [
         "agents"
       ],
-      "score": 62.6,
-      "summary": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claud",
+      "score": 61.6,
+      "summary": "Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hoste",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "bnlqn/overlook",
+      "html_url": "https://github.com/bnlqn/overlook",
+      "description": "Your whole homelab on one page, laid out for you.",
+      "stars": 245,
+      "language": "Go",
+      "categories": [
+        "agents"
+      ],
+      "score": 61.1,
+      "summary": "Your whole homelab on one page, laid out for you.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
