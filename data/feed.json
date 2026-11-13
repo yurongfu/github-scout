@@ -1,74 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "repos": [
     {
-      "full_name": "agentes-chat/agentes-chat",
-      "html_url": "https://github.com/agentes-chat/agentes-chat",
-      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
-      "stars": 1110,
-      "language": "TypeScript",
-      "categories": [
-        "agents"
-      ],
-      "score": 66.8,
-      "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, the",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "afnan0356/world-dominion",
-      "html_url": "https://github.com/afnan0356/world-dominion",
-      "description": "An offline grand strategy sandbox where you lead nations, shape economies, build military power, influence global politics, and determine the future of a living world.",
-      "stars": 68,
-      "language": "GDScript",
-      "categories": [
-        "games"
-      ],
-      "score": 59.4,
-      "summary": "An offline grand strategy sandbox where you lead nations, shape economies, build military power, influence global politics, and determine the future of a living world.",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "mahmoudtawfik1998/secure-pdf-document-processor",
-      "html_url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
-      "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
-      "stars": 1212,
-      "language": "HTML",
-      "categories": [
-        "tools"
-      ],
-      "score": 58.2,
-      "summary": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "mutonby/agentring",
-      "html_url": "https://github.com/mutonby/agentring",
-      "description": "Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hosted, open source, no phone numbers or Twilio.",
-      "stars": 401,
-      "language": "Python",
-      "categories": [
-        "agents"
-      ],
-      "score": 61.6,
-      "summary": "Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hoste",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "bnlqn/overlook",
-      "html_url": "https://github.com/bnlqn/overlook",
-      "description": "Your whole homelab on one page, laid out for you.",
-      "stars": 245,
+      "full_name": "DIYgod/pinky",
+      "html_url": "https://github.com/DIYgod/pinky",
+      "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+      "stars": 2078,
       "language": "Go",
       "categories": [
         "agents"
       ],
-      "score": 61.1,
-      "summary": "Your whole homelab on one page, laid out for you.",
+      "score": 65.7,
+      "summary": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "fabioschmidt01/PokeL-ARecomp",
+      "html_url": "https://github.com/fabioschmidt01/PokeL-ARecomp",
+      "description": "",
+      "stars": 57,
+      "language": "C",
+      "categories": [
+        "games"
+      ],
+      "score": 60.0,
+      "summary": "GitHub 上的新开源项目",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "kcgeekedup-hash/delta-force-trainer-tool",
+      "html_url": "https://github.com/kcgeekedup-hash/delta-force-trainer-tool",
+      "description": "Delta Force Trainer Tool: Full Working Installer With All Tools and Configurations",
+      "stars": 1197,
+      "language": "HTML",
+      "categories": [
+        "tools"
+      ],
+      "score": 58.5,
+      "summary": "Delta Force Trainer Tool: Full Working Installer With All Tools and Configurations",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "mit-han-lab/EvolvingInfra",
+      "html_url": "https://github.com/mit-han-lab/EvolvingInfra",
+      "description": "A inference framework that adapt to diverse and dynamic agent workload",
+      "stars": 25,
+      "language": "Python",
+      "categories": [
+        "systems"
+      ],
+      "score": 56.9,
+      "summary": "A inference framework that adapt to diverse and dynamic agent workload",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "BalthDreadgrid20608/events-rpocket-tracker",
+      "html_url": "https://github.com/BalthDreadgrid20608/events-rpocket-tracker",
+      "description": "Team calendar & tracker for events, talks and forums. Week and month views, forums with nested sessions, statuses and filters. Assign owners, keep the full communication history for every event. A Telegram bot powered by Claude turns forwarded invites, PDFs and posters into events and answers questions about your schedule.",
+      "stars": 66,
+      "language": "",
+      "categories": [
+        "agents"
+      ],
+      "score": 60.9,
+      "summary": "Team calendar & tracker for events, talks and forums. Week and month views, forums with nested sessions, statuses and filters. Assign owners, keep the full communication history fo",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
