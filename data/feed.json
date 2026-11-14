@@ -1,74 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "repos": [
     {
-      "full_name": "DIYgod/pinky",
-      "html_url": "https://github.com/DIYgod/pinky",
-      "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-      "stars": 2078,
-      "language": "Go",
-      "categories": [
-        "agents"
-      ],
-      "score": 65.7,
-      "summary": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "fabioschmidt01/PokeL-ARecomp",
-      "html_url": "https://github.com/fabioschmidt01/PokeL-ARecomp",
-      "description": "",
-      "stars": 57,
-      "language": "C",
-      "categories": [
-        "games"
-      ],
-      "score": 60.0,
-      "summary": "GitHub 上的新开源项目",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "kcgeekedup-hash/delta-force-trainer-tool",
-      "html_url": "https://github.com/kcgeekedup-hash/delta-force-trainer-tool",
-      "description": "Delta Force Trainer Tool: Full Working Installer With All Tools and Configurations",
-      "stars": 1197,
-      "language": "HTML",
-      "categories": [
-        "tools"
-      ],
-      "score": 58.5,
-      "summary": "Delta Force Trainer Tool: Full Working Installer With All Tools and Configurations",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "mit-han-lab/EvolvingInfra",
-      "html_url": "https://github.com/mit-han-lab/EvolvingInfra",
-      "description": "A inference framework that adapt to diverse and dynamic agent workload",
-      "stars": 25,
-      "language": "Python",
-      "categories": [
-        "systems"
-      ],
-      "score": 56.9,
-      "summary": "A inference framework that adapt to diverse and dynamic agent workload",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "BalthDreadgrid20608/events-rpocket-tracker",
-      "html_url": "https://github.com/BalthDreadgrid20608/events-rpocket-tracker",
-      "description": "Team calendar & tracker for events, talks and forums. Week and month views, forums with nested sessions, statuses and filters. Assign owners, keep the full communication history for every event. A Telegram bot powered by Claude turns forwarded invites, PDFs and posters into events and answers questions about your schedule.",
-      "stars": 66,
+      "full_name": "credoksopho1984/blender-ai-copilot-studio",
+      "html_url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+      "description": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server",
+      "stars": 272,
       "language": "",
       "categories": [
         "agents"
       ],
-      "score": 60.9,
-      "summary": "Team calendar & tracker for events, talks and forums. Week and month views, forums with nested sessions, statuses and filters. Assign owners, keep the full communication history fo",
+      "score": 65.9,
+      "summary": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "Midnightwildora/respocket-ChroniclesofStellar",
+      "html_url": "https://github.com/Midnightwildora/respocket-ChroniclesofStellar",
+      "description": "Live mainnet Web3 game on Stellar — autonomous AI agents live on-chain as persistent NPCs, storing game state directly in the ledger.",
+      "stars": 50,
+      "language": "HTML",
+      "categories": [
+        "games"
+      ],
+      "score": 62.4,
+      "summary": "Live mainnet Web3 game on Stellar — autonomous AI agents live on-chain as persistent NPCs, storing game state directly in the ledger.",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "html_url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
+      "description": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+      "stars": 1210,
+      "language": "HTML",
+      "categories": [
+        "tools"
+      ],
+      "score": 58.0,
+      "summary": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "Balanov/skein",
+      "html_url": "https://github.com/Balanov/skein",
+      "description": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+      "stars": 85,
+      "language": "Go",
+      "categories": [
+        "systems"
+      ],
+      "score": 56.2,
+      "summary": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "hitkeeen/blender-ai-mcp-addon",
+      "html_url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "stars": 273,
+      "language": "",
+      "categories": [
+        "agents"
+      ],
+      "score": 65.6,
+      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
