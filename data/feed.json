@@ -1,40 +1,40 @@
 {
   "schema_version": 1,
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "repos": [
     {
-      "full_name": "racdeufindurch198812/Blender-AI-MCP-Studio",
-      "html_url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
-      "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
-      "stars": 511,
+      "full_name": "zovulrira1974/blender-ai-copilot-assets",
+      "html_url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+      "description": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
+      "stars": 510,
       "language": "",
       "categories": [
         "agents"
       ],
-      "score": 65.3,
-      "summary": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scen",
+      "score": 65.0,
+      "summary": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "DasCondor/kubefactory",
-      "html_url": "https://github.com/DasCondor/kubefactory",
-      "description": "A first-person factory game that views and manages your Kubernetes clusters and Docker containers",
-      "stars": 34,
-      "language": "GDScript",
+      "full_name": "tammo1007/alyn",
+      "html_url": "https://github.com/tammo1007/alyn",
+      "description": "The best AI skills for Claude Code, Cursor and Codex, ranked every week. CLI, Alyn MCP and skills.",
+      "stars": 56,
+      "language": "JavaScript",
       "categories": [
         "games"
       ],
-      "score": 60.7,
-      "summary": "A first-person factory game that views and manages your Kubernetes clusters and Docker containers",
+      "score": 60.4,
+      "summary": "The best AI skills for Claude Code, Cursor and Codex, ranked every week. CLI, Alyn MCP and skills.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "WireProvostPucker/Gemini-Config-Checker-",
-      "html_url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+      "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
+      "html_url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": 475,
+      "stars": 474,
       "language": "Makefile",
       "categories": [
         "tools"
@@ -45,30 +45,30 @@
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "simranjeet97/AI_Engineer_Roadmap_2027",
-      "html_url": "https://github.com/simranjeet97/AI_Engineer_Roadmap_2027",
-      "description": "A 10-week, staff-level curriculum and engineering roadmap focused on LLM inference systems, serving physics, custom kernels, disaggregated architectures, and production optimization.",
-      "stars": 33,
-      "language": "Jupyter Notebook",
-      "categories": [
-        "systems"
-      ],
-      "score": 56.4,
-      "summary": "A 10-week, staff-level curriculum and engineering roadmap focused on LLM inference systems, serving physics, custom kernels, disaggregated architectures, and production optimizatio",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "tiobeharxi1987/blender-ai-copilot-flow",
-      "html_url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
-      "description": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension",
-      "stars": 509,
+      "full_name": "precygtrucqui1981/blender-ai-copilot-lab",
+      "html_url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
+      "description": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. · blender-ai-copilot-lab · blender · blender 3d · blender addon · blender plugin · blender extension",
+      "stars": 507,
       "language": "",
       "categories": [
         "agents"
       ],
-      "score": 65.3,
-      "summary": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name",
+      "score": 65.0,
+      "summary": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "baiblinocun1986/blender-ai-copilot-hub",
+      "html_url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
+      "description": "A multi-provider AI copilot hub for Blender—bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. · blender-ai-copilot-hub · blender · blender 3d · blender addon · blender plugin · blender extension",
+      "stars": 501,
+      "language": "",
+      "categories": [
+        "agents"
+      ],
+      "score": 65.0,
+      "summary": "A multi-provider AI copilot hub for Blender—bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, ",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
