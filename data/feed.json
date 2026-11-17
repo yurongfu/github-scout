@@ -1,74 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "repos": [
     {
-      "full_name": "zovulrira1974/blender-ai-copilot-assets",
-      "html_url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
-      "description": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
-      "stars": 510,
+      "full_name": "findavoulot1973/Blender-AI-MCP-Suite",
+      "html_url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
+      "description": "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual Studio workspace, multi-agent teams, 21+ scene tools and your choice of AI models. · blender ai mcp suite · blender ai mcp · ai for blender",
+      "stars": 498,
       "language": "",
       "categories": [
         "agents"
       ],
-      "score": 65.0,
-      "summary": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built",
+      "score": 65.3,
+      "summary": "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "tammo1007/alyn",
-      "html_url": "https://github.com/tammo1007/alyn",
-      "description": "The best AI skills for Claude Code, Cursor and Codex, ranked every week. CLI, Alyn MCP and skills.",
-      "stars": 56,
-      "language": "JavaScript",
+      "full_name": "josephchacong2013-cpu/jenny-minecraft-mod",
+      "html_url": "https://github.com/josephchacong2013-cpu/jenny-minecraft-mod",
+      "description": "Jenny Minecraft Mod: Companion NPCs for Forge Worlds",
+      "stars": 153,
+      "language": "TypeScript",
       "categories": [
         "games"
       ],
-      "score": 60.4,
-      "summary": "The best AI skills for Claude Code, Cursor and Codex, ranked every week. CLI, Alyn MCP and skills.",
+      "score": 62.2,
+      "summary": "Jenny Minecraft Mod: Companion NPCs for Forge Worlds",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "YellowLaborerMarket/Gemini-Config-Checker-",
-      "html_url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": 474,
-      "language": "Makefile",
+      "full_name": "erkamyaman/rust-anything",
+      "html_url": "https://github.com/erkamyaman/rust-anything",
+      "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "stars": 1108,
+      "language": "Rust",
       "categories": [
         "tools"
       ],
-      "score": 58.8,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "score": 59.9,
+      "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, ",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "precygtrucqui1981/blender-ai-copilot-lab",
-      "html_url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
-      "description": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, named undo, and a built-in MCP server. · blender-ai-copilot-lab · blender · blender 3d · blender addon · blender plugin · blender extension",
-      "stars": 507,
-      "language": "",
+      "full_name": "alexeyw/lot-map",
+      "html_url": "https://github.com/alexeyw/lot-map",
+      "description": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+      "stars": 983,
+      "language": "TypeScript",
       "categories": [
         "agents"
       ],
-      "score": 65.0,
-      "summary": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per",
+      "score": 64.7,
+      "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "baiblinocun1986/blender-ai-copilot-hub",
-      "html_url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
-      "description": "A multi-provider AI copilot hub for Blender—bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervised scene tools and a built-in MCP server. · blender-ai-copilot-hub · blender · blender 3d · blender addon · blender plugin · blender extension",
-      "stars": 501,
+      "full_name": "Doug-218/blender-ai-copilot-forge",
+      "html_url": "https://github.com/Doug-218/blender-ai-copilot-forge",
+      "description": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
+      "stars": 509,
       "language": "",
       "categories": [
         "agents"
       ],
-      "score": 65.0,
-      "summary": "A multi-provider AI copilot hub for Blender—bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, ",
+      "score": 64.2,
+      "summary": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and ",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
