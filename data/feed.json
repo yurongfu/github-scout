@@ -1,74 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "repos": [
     {
-      "full_name": "boringmarketer/boring-marketing-skills",
-      "html_url": "https://github.com/boringmarketer/boring-marketing-skills",
-      "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "stars": 656,
-      "language": "Python",
+      "full_name": "mdiri-ai/SoduWork",
+      "html_url": "https://github.com/mdiri-ai/SoduWork",
+      "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+      "stars": 4122,
+      "language": "JavaScript",
       "categories": [
         "agents"
       ],
-      "score": 65.4,
-      "summary": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "score": 63.3,
+      "summary": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Entityglirescue/jenny-mod-official",
-      "html_url": "https://github.com/Entityglirescue/jenny-mod-official",
-      "description": "Official Jenny Mod (Fapcraft) download for Minecraft Java and Bedrock. Get new characters, gameplay features, installation guide, and safe working files.",
-      "stars": 108,
-      "language": "Java",
+      "full_name": "BuildLogic264/tmodloader-varriora",
+      "html_url": "https://github.com/BuildLogic264/tmodloader-varriora",
+      "description": "Build and mod a living Terraria world through Varriora's tModLoader tools.",
+      "stars": 53,
+      "language": "Go",
       "categories": [
         "games"
       ],
-      "score": 62.1,
-      "summary": "Official Jenny Mod (Fapcraft) download for Minecraft Java and Bedrock. Get new characters, gameplay features, installation guide, and safe working files.",
+      "score": 61.2,
+      "summary": "Build and mod a living Terraria world through Varriora's tModLoader tools.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "CzzzzzzJ/mdldm-maitian",
-      "html_url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-      "stars": 1295,
-      "language": "JavaScript",
+      "full_name": "weightcashiercupola/Gemini-Config-Checker-",
+      "html_url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "stars": 473,
+      "language": "Makefile",
       "categories": [
         "tools"
       ],
-      "score": 58.8,
-      "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "score": 57.8,
+      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "yzsind/mydb",
-      "html_url": "https://github.com/yzsind/mydb",
-      "description": "A high-performance MySQL-compatible database for HTAP and AI agents  Mixed transactional and analytical workloads, with native AI retrieval.",
-      "stars": 53,
-      "language": "Rust",
+      "full_name": "dangxingyu/megakernel-zoo",
+      "html_url": "https://github.com/dangxingyu/megakernel-zoo",
+      "description": "Model-specific megakernel inference engines for LLM decoding, written by coding agents. OpenAI-compatible server, evaluation suite, and the kit to build your own.",
+      "stars": 30,
+      "language": "Cuda",
       "categories": [
         "systems"
       ],
-      "score": 58.8,
-      "summary": "A high-performance MySQL-compatible database for HTAP and AI agents  Mixed transactional and analytical workloads, with native AI retrieval.",
+      "score": 57.7,
+      "summary": "Model-specific megakernel inference engines for LLM decoding, written by coding agents. OpenAI-compatible server, evaluation suite, and the kit to build your own.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "fumbdendade19718/blender-ai-copilot-desk",
-      "html_url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk",
-      "description": "A visual AI desk for Blender—chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP server. · blender-ai-copilot-desk · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation · blender mcp",
-      "stars": 505,
-      "language": "",
+      "full_name": "FIlIP-C3/events-tracker",
+      "html_url": "https://github.com/FIlIP-C3/events-tracker",
+      "description": "Events Tracker: Team Calendar and Event Management Platform",
+      "stars": 153,
+      "language": "TypeScript",
       "categories": [
         "agents"
       ],
-      "score": 63.9,
-      "summary": "A visual AI desk for Blender—chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP se",
+      "score": 62.5,
+      "summary": "Events Tracker: Team Calendar and Event Management Platform",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
