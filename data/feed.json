@@ -1,74 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "repos": [
     {
-      "full_name": "mdiri-ai/SoduWork",
-      "html_url": "https://github.com/mdiri-ai/SoduWork",
-      "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-      "stars": 4122,
-      "language": "JavaScript",
+      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "stars": 1638,
+      "language": "",
       "categories": [
         "agents"
       ],
-      "score": 63.3,
-      "summary": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+      "score": 68.0,
+      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "BuildLogic264/tmodloader-varriora",
-      "html_url": "https://github.com/BuildLogic264/tmodloader-varriora",
-      "description": "Build and mod a living Terraria world through Varriora's tModLoader tools.",
-      "stars": 53,
-      "language": "Go",
+      "full_name": "beyondtahir/beyondgtaclips",
+      "html_url": "https://github.com/beyondtahir/beyondgtaclips",
+      "description": "Turn long GTA 6 streams into viral 9:16 reels automatically. Free, local, works in Claude and ChatGPT.",
+      "stars": 97,
+      "language": "Python",
       "categories": [
         "games"
       ],
-      "score": 61.2,
-      "summary": "Build and mod a living Terraria world through Varriora's tModLoader tools.",
+      "score": 61.4,
+      "summary": "Turn long GTA 6 streams into viral 9:16 reels automatically. Free, local, works in Claude and ChatGPT.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "weightcashiercupola/Gemini-Config-Checker-",
-      "html_url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+      "full_name": "aurahamzzz-cyber/microsoft-excel-alvaora",
+      "html_url": "https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora",
+      "description": "Automates structured data workflows and spreadsheet task orchestration in Excel.",
+      "stars": 135,
+      "language": "Python",
+      "categories": [
+        "systems"
+      ],
+      "score": 58.4,
+      "summary": "Automates structured data workflows and spreadsheet task orchestration in Excel.",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "Visionbeyondtrack/Gemini-Config-Checker-",
+      "html_url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": 473,
+      "stars": 472,
       "language": "Makefile",
       "categories": [
         "tools"
       ],
-      "score": 57.8,
+      "score": 57.5,
       "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "dangxingyu/megakernel-zoo",
-      "html_url": "https://github.com/dangxingyu/megakernel-zoo",
-      "description": "Model-specific megakernel inference engines for LLM decoding, written by coding agents. OpenAI-compatible server, evaluation suite, and the kit to build your own.",
-      "stars": 30,
-      "language": "Cuda",
-      "categories": [
-        "systems"
-      ],
-      "score": 57.7,
-      "summary": "Model-specific megakernel inference engines for LLM decoding, written by coding agents. OpenAI-compatible server, evaluation suite, and the kit to build your own.",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "FIlIP-C3/events-tracker",
-      "html_url": "https://github.com/FIlIP-C3/events-tracker",
-      "description": "Events Tracker: Team Calendar and Event Management Platform",
-      "stars": 153,
+      "full_name": "ai-timon/timon",
+      "html_url": "https://github.com/ai-timon/timon",
+      "description": "Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place",
+      "stars": 639,
       "language": "TypeScript",
       "categories": [
         "agents"
       ],
-      "score": 62.5,
-      "summary": "Events Tracker: Team Calendar and Event Management Platform",
+      "score": 62.7,
+      "summary": "Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
