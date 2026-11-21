@@ -1,74 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "repos": [
     {
-      "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": 1638,
-      "language": "",
+      "full_name": "CYFARE/Mariana-Studio",
+      "html_url": "https://github.com/CYFARE/Mariana-Studio",
+      "description": "Into The Depths of AI's Ocean",
+      "stars": 59,
+      "language": "Python",
       "categories": [
         "agents"
       ],
-      "score": 68.0,
-      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D",
+      "score": 62.3,
+      "summary": "Into The Depths of AI's Ocean",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "beyondtahir/beyondgtaclips",
-      "html_url": "https://github.com/beyondtahir/beyondgtaclips",
-      "description": "Turn long GTA 6 streams into viral 9:16 reels automatically. Free, local, works in Claude and ChatGPT.",
-      "stars": 97,
-      "language": "Python",
+      "full_name": "hoanglong1204/wow-unbot-addon",
+      "html_url": "https://github.com/hoanglong1204/wow-unbot-addon",
+      "description": "UnBot: Reclaim Your WoW Adventure with a Modder-Friendly Bot Addon",
+      "stars": 153,
+      "language": "HTML",
       "categories": [
         "games"
       ],
-      "score": 61.4,
-      "summary": "Turn long GTA 6 streams into viral 9:16 reels automatically. Free, local, works in Claude and ChatGPT.",
+      "score": 60.8,
+      "summary": "UnBot: Reclaim Your WoW Adventure with a Modder-Friendly Bot Addon",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "aurahamzzz-cyber/microsoft-excel-alvaora",
-      "html_url": "https://github.com/aurahamzzz-cyber/microsoft-excel-alvaora",
-      "description": "Automates structured data workflows and spreadsheet task orchestration in Excel.",
-      "stars": 135,
-      "language": "Python",
-      "categories": [
-        "systems"
-      ],
-      "score": 58.4,
-      "summary": "Automates structured data workflows and spreadsheet task orchestration in Excel.",
-      "why": "近期出现，符合你关注的技术方向。",
-      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
-    },
-    {
-      "full_name": "Visionbeyondtrack/Gemini-Config-Checker-",
-      "html_url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
-      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "stars": 472,
-      "language": "Makefile",
+      "full_name": "vaibhav-space/my-ai-coding-workflow",
+      "html_url": "https://github.com/vaibhav-space/my-ai-coding-workflow",
+      "description": "Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with AI agents. Agent-agnostic.",
+      "stars": 333,
+      "language": "HTML",
       "categories": [
         "tools"
       ],
-      "score": 57.5,
-      "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "score": 57.3,
+      "summary": "Production-grade AI coding instructions, curated skills, and a 3-stage review pipeline (Planning → Critical Review → Diff Audit) built after 4,500+ hours with AI agents. Agent-agno",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "ai-timon/timon",
-      "html_url": "https://github.com/ai-timon/timon",
-      "description": "Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place",
-      "stars": 639,
-      "language": "TypeScript",
+      "full_name": "db-branch/db-branch",
+      "html_url": "https://github.com/db-branch/db-branch",
+      "description": "Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing",
+      "stars": 81,
+      "language": "Go",
+      "categories": [
+        "systems"
+      ],
+      "score": 57.2,
+      "summary": "Instant MySQL database branches on ZFS clones, clustered across VMs with ProxySQL routing",
+      "why": "近期出现，符合你关注的技术方向。",
+      "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
+    },
+    {
+      "full_name": "TIGER-AI-Lab/WebsiteBench",
+      "html_url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+      "description": "Can AI agents rebuild websites through browser exploration?",
+      "stars": 603,
+      "language": "Python",
       "categories": [
         "agents"
       ],
-      "score": 62.7,
-      "summary": "Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place",
+      "score": 62.2,
+      "summary": "Can AI agents rebuild websites through browser exploration?",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
