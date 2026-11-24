@@ -3,73 +3,72 @@
   "date": "2026-11-24",
   "repos": [
     {
-      "full_name": "INK-Q/agy-fast",
-      "html_url": "https://github.com/INK-Q/agy-fast",
-      "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-      "stars": 791,
+      "full_name": "XinaTian/MROffice",
+      "html_url": "https://github.com/XinaTian/MROffice",
+      "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
+      "stars": 3763,
       "language": "TypeScript",
       "categories": [
-        "agents",
-        "tools"
+        "agents"
       ],
-      "score": 65.5,
-      "summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or di",
+      "score": 64.3,
+      "summary": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "owoevan-dev/sfx-skill",
-      "html_url": "https://github.com/owoevan-dev/sfx-skill",
-      "description": "An Agent Skill that designs original sound effects for games and apps as editable layers of synthesis and CC0 field recordings, then renders variants, levels the set and exports for game engines. No audio-generation model.",
-      "stars": 29,
+      "full_name": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+      "html_url": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+      "description": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
+      "stars": 141,
       "language": "Python",
       "categories": [
         "games"
       ],
-      "score": 61.1,
-      "summary": "An Agent Skill that designs original sound effects for games and apps as editable layers of synthesis and CC0 field recordings, then renders variants, levels the set and exports fo",
+      "score": 63.6,
+      "summary": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "erkamyaman/safe-anything",
-      "html_url": "https://github.com/erkamyaman/safe-anything",
-      "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-      "stars": 495,
+      "full_name": "Indigo-0167/universal-game-mod-manager",
+      "html_url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+      "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "stars": 490,
       "language": "Rust",
       "categories": [
         "tools"
       ],
       "score": 59.5,
-      "summary": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+      "summary": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "databasifylabs/databasify",
-      "html_url": "https://github.com/databasifylabs/databasify",
-      "description": "An open-source, self-hostable DBaaS alternative to DigitalOcean Managed Databases, Amazon RDS & Aiven that lets you run PostgreSQL, MySQL, MariaDB, MongoDB, Valkey and Redis, from a single node to a highly available cluster with automatic failover, point-in-time backups and TLS, on your own servers.",
-      "stars": 136,
-      "language": "PHP",
+      "full_name": "liustack/sqlite",
+      "html_url": "https://github.com/liustack/sqlite",
+      "description": "The fastest cgo-free SQLite driver for Go's database/sql. It builds with CGO_ENABLED=0, and on most workloads it beats the cgo driver too.",
+      "stars": 188,
+      "language": "Assembly",
       "categories": [
         "systems"
       ],
-      "score": 56.5,
-      "summary": "An open-source, self-hostable DBaaS alternative to DigitalOcean Managed Databases, Amazon RDS & Aiven that lets you run PostgreSQL, MySQL, MariaDB, MongoDB, Valkey and Redis, from ",
+      "score": 56.3,
+      "summary": "The fastest cgo-free SQLite driver for Go's database/sql. It builds with CGO_ENABLED=0, and on most workloads it beats the cgo driver too.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "pierridotite/mobile-agent-testers",
-      "html_url": "https://github.com/pierridotite/mobile-agent-testers",
-      "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
-      "stars": 1484,
-      "language": "Python",
+      "full_name": "21stware/bowel",
+      "html_url": "https://github.com/21stware/bowel",
+      "description": "Native mihomo (Clash Meta) client for macOS, Windows, Linux & Android: GPU-rendered Go UI, no Electron or WebView. Rules, TUN, gateway mode, CLI/TUI and a built-in MCP server.",
+      "stars": 654,
+      "language": "Go",
       "categories": [
         "agents"
       ],
-      "score": 64.8,
-      "summary": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout ",
+      "score": 62.3,
+      "summary": "Native mihomo (Clash Meta) client for macOS, Windows, Linux & Android: GPU-rendered Go UI, no Electron or WebView. Rules, TUN, gateway mode, CLI/TUI and a built-in MCP server.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
