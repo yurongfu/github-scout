@@ -1,74 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "repos": [
     {
-      "full_name": "XinaTian/MROffice",
-      "html_url": "https://github.com/XinaTian/MROffice",
-      "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
-      "stars": 3763,
-      "language": "TypeScript",
+      "full_name": "Developing-Gamer/agent-sim",
+      "html_url": "https://github.com/Developing-Gamer/agent-sim",
+      "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+      "stars": 596,
+      "language": "Rust",
       "categories": [
         "agents"
       ],
-      "score": 64.3,
-      "summary": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor",
+      "score": 64.6,
+      "summary": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
-      "html_url": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
-      "description": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
-      "stars": 141,
-      "language": "Python",
+      "full_name": "erkamyaman/rea-games",
+      "html_url": "https://github.com/erkamyaman/rea-games",
+      "description": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
+      "stars": 184,
+      "language": "JavaScript",
       "categories": [
         "games"
       ],
-      "score": 63.6,
-      "summary": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
+      "score": 62.8,
+      "summary": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Indigo-0167/universal-game-mod-manager",
-      "html_url": "https://github.com/Indigo-0167/universal-game-mod-manager",
-      "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
-      "stars": 490,
-      "language": "Rust",
+      "full_name": "Basil0879/steam-game-idler",
+      "html_url": "https://github.com/Basil0879/steam-game-idler",
+      "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+      "stars": 681,
+      "language": "TypeScript",
       "categories": [
         "tools"
       ],
-      "score": 59.5,
-      "summary": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+      "score": 58.8,
+      "summary": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "liustack/sqlite",
-      "html_url": "https://github.com/liustack/sqlite",
-      "description": "The fastest cgo-free SQLite driver for Go's database/sql. It builds with CGO_ENABLED=0, and on most workloads it beats the cgo driver too.",
-      "stars": 188,
-      "language": "Assembly",
+      "full_name": "gauravjain14/inference-observe",
+      "html_url": "https://github.com/gauravjain14/inference-observe",
+      "description": "See inside your LLM inference engine, live: every request, scheduler step and KV-cache block from SGLang or vLLM, streamed to a dashboard.",
+      "stars": 12,
+      "language": "TypeScript",
       "categories": [
         "systems"
       ],
-      "score": 56.3,
-      "summary": "The fastest cgo-free SQLite driver for Go's database/sql. It builds with CGO_ENABLED=0, and on most workloads it beats the cgo driver too.",
+      "score": 55.8,
+      "summary": "See inside your LLM inference engine, live: every request, scheduler step and KV-cache block from SGLang or vLLM, streamed to a dashboard.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "21stware/bowel",
-      "html_url": "https://github.com/21stware/bowel",
-      "description": "Native mihomo (Clash Meta) client for macOS, Windows, Linux & Android: GPU-rendered Go UI, no Electron or WebView. Rules, TUN, gateway mode, CLI/TUI and a built-in MCP server.",
-      "stars": 654,
-      "language": "Go",
+      "full_name": "chanke17/KuroCat",
+      "html_url": "https://github.com/chanke17/KuroCat",
+      "description": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
+      "stars": 529,
+      "language": "C++",
       "categories": [
         "agents"
       ],
-      "score": 62.3,
-      "summary": "Native mihomo (Clash Meta) client for macOS, Windows, Linux & Android: GPU-rendered Go UI, no Electron or WebView. Rules, TUN, gateway mode, CLI/TUI and a built-in MCP server.",
+      "score": 64.5,
+      "summary": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / ",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
