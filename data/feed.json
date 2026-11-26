@@ -1,74 +1,74 @@
 {
   "schema_version": 1,
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "repos": [
     {
-      "full_name": "Developing-Gamer/agent-sim",
-      "html_url": "https://github.com/Developing-Gamer/agent-sim",
-      "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
-      "stars": 596,
-      "language": "Rust",
+      "full_name": "nexu-io/opengame",
+      "html_url": "https://github.com/nexu-io/opengame",
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "stars": 766,
+      "language": "TypeScript",
       "categories": [
         "agents"
       ],
-      "score": 64.6,
-      "summary": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+      "score": 66.6,
+      "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studi",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "erkamyaman/rea-games",
-      "html_url": "https://github.com/erkamyaman/rea-games",
-      "description": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
-      "stars": 184,
-      "language": "JavaScript",
+      "full_name": "LukmanWood863/character-ai",
+      "html_url": "https://github.com/LukmanWood863/character-ai",
+      "description": "Character Ai for Windows 10/11. Chats with AI characters, creates custom personas with voices and backstories, and roleplays scenarios in a desktop client for writing, brainstorming and interactive storytelling.",
+      "stars": 230,
+      "language": "",
       "categories": [
         "games"
       ],
-      "score": 62.8,
-      "summary": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
+      "score": 62.1,
+      "summary": "Character Ai for Windows 10/11. Chats with AI characters, creates custom personas with voices and backstories, and roleplays scenarios in a desktop client for writing, brainstormin",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Basil0879/steam-game-idler",
-      "html_url": "https://github.com/Basil0879/steam-game-idler",
-      "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
-      "stars": 681,
-      "language": "TypeScript",
+      "full_name": "RMvdesi/obsidian-prism",
+      "html_url": "https://github.com/RMvdesi/obsidian-prism",
+      "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)",
+      "stars": 2221,
+      "language": "JavaScript",
       "categories": [
         "tools"
       ],
-      "score": 58.8,
-      "summary": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+      "score": 58.1,
+      "summary": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "gauravjain14/inference-observe",
-      "html_url": "https://github.com/gauravjain14/inference-observe",
-      "description": "See inside your LLM inference engine, live: every request, scheduler step and KV-cache block from SGLang or vLLM, streamed to a dashboard.",
-      "stars": 12,
-      "language": "TypeScript",
+      "full_name": "ryanymt/podserve",
+      "html_url": "https://github.com/ryanymt/podserve",
+      "description": "Serve Hugging Face models on GKE with vLLM: one command picks the GPU and settings and serves an OpenAI-compatible inference API in your own GCP project. Open source. GPU now, TPU next.",
+      "stars": 11,
+      "language": "Go",
       "categories": [
         "systems"
       ],
-      "score": 55.8,
-      "summary": "See inside your LLM inference engine, live: every request, scheduler step and KV-cache block from SGLang or vLLM, streamed to a dashboard.",
+      "score": 55.0,
+      "summary": "Serve Hugging Face models on GKE with vLLM: one command picks the GPU and settings and serves an OpenAI-compatible inference API in your own GCP project. Open source. GPU now, TPU ",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "chanke17/KuroCat",
-      "html_url": "https://github.com/chanke17/KuroCat",
-      "description": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）",
-      "stars": 529,
-      "language": "C++",
+      "full_name": "Spaceswalker/SmallWhale",
+      "html_url": "https://github.com/Spaceswalker/SmallWhale",
+      "description": "小鲸：一个会记事、说话像人的 QQ AI 陪伴角色的可复现工程",
+      "stars": 45,
+      "language": "Python",
       "categories": [
         "agents"
       ],
-      "score": 64.5,
-      "summary": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / ",
+      "score": 61.7,
+      "summary": "小鲸：一个会记事、说话像人的 QQ AI 陪伴角色的可复现工程",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
