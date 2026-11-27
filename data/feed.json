@@ -1,74 +1,75 @@
 {
   "schema_version": 1,
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "repos": [
     {
-      "full_name": "nexu-io/opengame",
-      "html_url": "https://github.com/nexu-io/opengame",
-      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
-      "stars": 766,
-      "language": "TypeScript",
+      "full_name": "gary23w/f-ck_data_brokers",
+      "html_url": "https://github.com/gary23w/f-ck_data_brokers",
+      "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+      "stars": 598,
+      "language": "Python",
       "categories": [
-        "agents"
+        "agents",
+        "tools"
       ],
-      "score": 66.6,
-      "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studi",
+      "score": 65.1,
+      "summary": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "LukmanWood863/character-ai",
-      "html_url": "https://github.com/LukmanWood863/character-ai",
-      "description": "Character Ai for Windows 10/11. Chats with AI characters, creates custom personas with voices and backstories, and roleplays scenarios in a desktop client for writing, brainstorming and interactive storytelling.",
-      "stars": 230,
-      "language": "",
+      "full_name": "OfficialAtone/jenny-mod-enhanced-edition",
+      "html_url": "https://github.com/OfficialAtone/jenny-mod-enhanced-edition",
+      "description": "Unofficial Enhanced Edition of the Jenny Mod (Fapcraft) for Minecraft Java and Bedrock. Upgraded NPC AI, new interactions, and full compatibility with modern versions.",
+      "stars": 79,
+      "language": "Java",
       "categories": [
         "games"
       ],
-      "score": 62.1,
-      "summary": "Character Ai for Windows 10/11. Chats with AI characters, creates custom personas with voices and backstories, and roleplays scenarios in a desktop client for writing, brainstormin",
+      "score": 61.7,
+      "summary": "Unofficial Enhanced Edition of the Jenny Mod (Fapcraft) for Minecraft Java and Bedrock. Upgraded NPC AI, new interactions, and full compatibility with modern versions.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "RMvdesi/obsidian-prism",
-      "html_url": "https://github.com/RMvdesi/obsidian-prism",
-      "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)",
-      "stars": 2221,
-      "language": "JavaScript",
+      "full_name": "flint63-code/gitdesk-windows",
+      "html_url": "https://github.com/flint63-code/gitdesk-windows",
+      "description": "Free open-source Git GUI client for Windows with visual commit history, branch management, SSH, Git LFS and more.",
+      "stars": 372,
+      "language": "C#",
       "categories": [
         "tools"
       ],
-      "score": 58.1,
-      "summary": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)",
+      "score": 58.5,
+      "summary": "Free open-source Git GUI client for Windows with visual commit history, branch management, SSH, Git LFS and more.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "ryanymt/podserve",
-      "html_url": "https://github.com/ryanymt/podserve",
-      "description": "Serve Hugging Face models on GKE with vLLM: one command picks the GPU and settings and serves an OpenAI-compatible inference API in your own GCP project. Open source. GPU now, TPU next.",
-      "stars": 11,
-      "language": "Go",
+      "full_name": "sao-coding/locus",
+      "html_url": "https://github.com/sao-coding/locus",
+      "description": "A fast, smooth database client for Windows. Built with Rust and GPUI.",
+      "stars": 108,
+      "language": "Rust",
       "categories": [
         "systems"
       ],
-      "score": 55.0,
-      "summary": "Serve Hugging Face models on GKE with vLLM: one command picks the GPU and settings and serves an OpenAI-compatible inference API in your own GCP project. Open source. GPU now, TPU ",
+      "score": 57.2,
+      "summary": "A fast, smooth database client for Windows. Built with Rust and GPUI.",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     },
     {
-      "full_name": "Spaceswalker/SmallWhale",
-      "html_url": "https://github.com/Spaceswalker/SmallWhale",
-      "description": "小鲸：一个会记事、说话像人的 QQ AI 陪伴角色的可复现工程",
-      "stars": 45,
-      "language": "Python",
+      "full_name": "DeadInternetStudios/100x-engineer-skill",
+      "html_url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+      "description": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+      "stars": 759,
+      "language": "JavaScript",
       "categories": [
         "agents"
       ],
-      "score": 61.7,
-      "summary": "小鲸：一个会记事、说话像人的 QQ AI 陪伴角色的可复现工程",
+      "score": 64.3,
+      "summary": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
       "why": "近期出现，符合你关注的技术方向。",
       "build_idea": "Fork 后运行 demo，尝试增添一个小功能并记录基准测试。"
     }
